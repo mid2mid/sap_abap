@@ -1,9 +1,9 @@
 > [!NOTE]
-> jika ada kesalahan atau tidak kesebut dalam penyebutan nama,kata,atau typo ... mon maaf
+> jika ada kesalahan atau tidak kesebut dalam penyebutan nama,kata,atau typo ... mon maaf ...
 > jika ada hal yang perlu du sensor langsung aj bikin issue
 
 # INTRO
-hello ... project ini merupakan project pertama gw kerja sebagai SAP ABAP. selama mengikuti project ini gw dapet ilmu dan beberapa kenalan yang sudah ahli di dunia SAP ABAP. big thanks to my team digo,nadia,dinda,mas mun,pak haji,pak yoko,mas denny. **YANG PASTI ADA SUATU WAKTU GW JADI BADUT:clown_face: KARENA CEWE WKWKWKWk** 
+hello ... project ini merupakan project pertama gw kerja sebagai SAP ABAP. selama mengikuti project ini gw dapet ilmu dan beberapa kenalan yang sudah ahli di dunia SAP ABAP. big thanks to my team digo,nadia,dinda,mas mun,pak haji,pak yoko,mas denny.ini project sangat penuh drama di kehidupan pribadi gw **YANG PASTI ADA SUATU WAKTU GW JADI BADUT:clown_face: KARENA CEWE WKWKWKWk** 
 
 # PENGALAMAN
 di bagian ini gw bakalan ngasih tau pengalaman apa aja yang gw dapet
