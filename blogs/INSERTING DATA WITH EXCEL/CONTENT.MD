@@ -4,4 +4,4 @@ ini program gw buat karena gabut aj... inti nya ini program buat insert table de
 kritik saran nya boleh dikasih issue
 
 # FORMAT EXCEL
-!(https://github.com/mid2mid/sap_abap/blob/main/blogs/INSERTING%20DATA%20WITH%20EXCEL/A1.png)
+![test](https://github.com/mid2mid/sap_abap/blob/main/blogs/INSERTING%20DATA%20WITH%20EXCEL/A1.png)
