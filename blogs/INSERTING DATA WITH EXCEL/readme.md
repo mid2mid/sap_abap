@@ -1,3 +1,6 @@
+> [!NOTE]
+> PROSES INSERT NYA PAKE MODIFY JADI PERHATIKAN KEY.. USAHAKAN KEY YANG YANG BELUM PERNAH ADA SUPAYA INSERT BUKA UPDATE
+
 # CONTENT
 ini program gw buat karena gabut aj... inti nya ini program buat insert table dengan file excel
 
